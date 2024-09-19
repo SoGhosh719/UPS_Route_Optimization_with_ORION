@@ -1,4 +1,4 @@
-# VIsual-Analytics-Works
+# Visual-Analytics-Works
 
 # Project Report: UPS's Route Optimization with ORION
 UPS, a global leader in logistics, faced the challenge of optimizing its delivery routes to reduce fuel consumption and improve efficiency across its vast network. The company delivers millions of packages daily, and even minor inefficiencies in routing could lead to significant costs and environmental impact.
